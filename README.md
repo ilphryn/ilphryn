@@ -23,12 +23,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilphryn&layout=compact&hide=html" alt="ilphryn" /></p>
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilphryn&show_icons=true" alt="ilphryn" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilphryn&show_icons=true" alt="ilphryn" /></p>
 
 <p align="center">
 <a href="https://dev.to/ilphryn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ilphryn" height="30" width="30" /></a>
 <a href="https://twitter.com/_ilphryn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_ilphryn" height="30" width="30" /></a>
-
-
 <a href="https://linkedin.com/in/jean-innocent-koffi-a850b8ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jean-innocent-koffi-a850b8ab" height="30" width="30" /></a>
 </p>
