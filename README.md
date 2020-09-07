@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel KOFFI</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A JS Enthusiast, Coffee Lover ☕ and passionate Frontend Developer, from Côte d'Ivoire 🇨🇮.</h3>
 <br />
 <br />
