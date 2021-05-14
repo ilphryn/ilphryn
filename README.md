@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React, Angular Project..**
 
-- 🌱 I’m currently learning **Pyhton, React, Gatsby, Strapi..**
+- 🌱 I’m currently learning **Python, React, Gatsby, Strapi..**
 
 - 💬 Ask me about **AngularJS, Angular2+, ExpressJS, NodeJS, React, Bonita, CAMUNDA **
 
