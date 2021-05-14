@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">A JS Enthusiast, Coffee Lover ☕ and passionate Frontend Developer, from Côte d'Ivoire 🇨🇮.</h3>
+<h3 align="center">A JS Enthusiast, Coffee Lover ☕ and passionate IT BPM Developer, from Côte d'Ivoire 🇨🇮.</h3>
 <br />
 <br />
 
-- 🔭 I’m currently working on **Personal Blog/Portefolio**
+- 🔭 I’m currently working on **Somes projects**
 
 - 👯 I’m looking to collaborate on **React, Angular Project..**
 
-- 🌱 I’m currently learning **React, Gatsby, Strapi..**
+- 🌱 I’m currently learning **Pyhton, React, Gatsby, Strapi..**
 
-- 💬 Ask me about **AngularJS, Angular2+, ExpressJS, NodeJS**
+- 💬 Ask me about **AngularJS, Angular2+, ExpressJS, NodeJS, React, Bonita, CAMUNDA **
 
 - 📫 How to reach me **jnmnlkoffi@gmail.com**
 <br />
