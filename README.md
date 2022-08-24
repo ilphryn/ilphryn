@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, React, Gatsby, Strapi..**
 
-- 💬 Ask me about **AngularJS, Angular2+, ExpressJS, NodeJS, React, Bonita, CAMUNDA **
+- 💬 Ask me about **AngularJS, Angular2+, ExpressJS, NodeJS, React, Bonita, CAMUNDA**
 
 - 📫 How to reach me **jnmnlkoffi@gmail.com**
 <br />
